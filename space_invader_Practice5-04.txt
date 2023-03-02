@@ -1,0 +1,5 @@
+question 1 :What function do we use to start a session?
+	- Session_start() function
+
+question 2 :Where are these session variables stored? 
+	- Session variables are stored in associative array called $_SESSION[]. These variables can be accessed during lifetime of a session. The following example starts a session then register a variable called counter that is incremented each time the page is visited during the session.
