@@ -2,8 +2,6 @@
     if(isset($_POST['username']) && isset($_POST['password']) && !empty($_POST['username']) && !empty($_POST['password'])){
         setcookie('auth', 'ok', time()+3600, '/');
         header('Location: loggedin.php');
-    }else{
-        echo "Error! Please fill up the Username and Password.";
     }
 ?>
 <html lang="en">
