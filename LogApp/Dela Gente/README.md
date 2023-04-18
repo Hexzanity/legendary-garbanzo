@@ -34,5 +34,3 @@ Once logged in, you can view the logs of the people that used the system.
 Christian Dela Gente, BSIT 3rd Year Block 1
 
 [![Christian Dela Gente](img/xchan.jpg)](https://github.com/xchan344)
-
-Github: https://github.com/xchan344
